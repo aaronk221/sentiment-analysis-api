@@ -1,0 +1,15 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "coding train express tut",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aaronk221",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "p5": "^0.5.8"
+  }
+}
